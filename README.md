@@ -1,4 +1,4 @@
-# Computational Intelligence Final Project 
+# Ship Classification and Localisation 
 
 
 `Professor`  : Antonello Rizzi   
