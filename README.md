@@ -1,4 +1,4 @@
-# Computational_Intelligence Final Project 
+# Computational Intelligence Final Project 
 
 
 `Professor`  : Antonello Rizzi   
