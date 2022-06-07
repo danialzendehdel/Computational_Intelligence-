@@ -1,4 +1,4 @@
- Ship Classification and Localisation 
+ **Ship Classification and Localisation**
 
 
 `Professor`  : Antonello Rizzi   
